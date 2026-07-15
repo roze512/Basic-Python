@@ -1,0 +1,3 @@
+products = ["Sugar", "Rice", "Flour", "Salt"]
+products.remove("Flour")
+print("Products After Removal:", products)

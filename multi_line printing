@@ -1,0 +1,2 @@
+address = "House no 123\nStreet 5\nModel Town\nMultan\nPunjab, Pakistan"
+print(address)
